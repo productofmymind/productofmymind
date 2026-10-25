@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm George 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
-  I build tools that sit quietly in the background and make everyday things work better:<br>
-  Windows utilities, Blender add-ons and the odd web toy.
 </p>
 
 ## Featured projects
