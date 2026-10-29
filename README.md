@@ -7,17 +7,12 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🧰 <a href="https://github.com/productofmymind/CRCK-Explorer">CRCK Explorer</a></h3>
       Every GTA V and FiveM modding tool in one Windows program: browse the game, view models, build add-on vehicles, edit handling and textures, and check it all before the game finds the mistakes.<br><br>
       <sub><b>Rust</b> · GPL-3.0</sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>🛡️ <a href="https://github.com/productofmymind/CRCK-Guard">CRCK Guard</a></h3>
-      A lightweight, system-wide ad, tracker and malware blocker for Windows. A local DNS filter with a tray app, per-app stats on what was blocked and from where, and built-in YouTube/Twitch ad filtering.<br><br>
-      <sub><b>C# · .NET 9 · WPF</b> · GPL-3.0</sub>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🚗 <a href="https://github.com/productofmymind/CRCK-Workshop">CRCK Workshop</a></h3>
       A vehicle workflow for Sollumz in Blender: see a vehicle as a tree of parts, check it for problems with plain-language fixes, generate LODs, manage paint layers and export smaller files.<br><br>
       <sub><b>Python · Blender</b></sub>
